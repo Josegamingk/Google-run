@@ -6,7 +6,7 @@
 "settings": {
 "clients": [
 {
-"id": "5e459535-e3d8-4b22-af86-080fb1c8485a",
+"id": "d2cb8181-233c-4d18-9972-8a1b04db0044",
 "level": 0
 }
 ],
@@ -15,7 +15,7 @@
 "streamSettings": {
 "network": "ws",
 "wsSettings": {
-"path": "/qBxOpvy7/"
+"path": "/personalizado"
 }
 }
 }
